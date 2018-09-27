@@ -1,5 +1,7 @@
 # RecommenderEngine
 
+Create product recommendation engine for users
+
 ## Run scoring function:
 `python command.py initialize --users-file <path user file> --products-file <path product file> --current-timestamp <timestamp>`
 
